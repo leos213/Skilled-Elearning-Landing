@@ -600,5 +600,28 @@ footer {
         padding-top: 64px;
 
     }
+    
+      .logo2 {
+
+        height: 35px;
+        width: 89px;
+        margin-top: 30px;
+        margin-left: 165px;
+
+    }
+
+    .getstarted-3 {
+        width: 167px;
+        height: 56px;
+        background: linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
+        border-radius: 28px;
+        color: white;
+
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 30px;
+        margin-right: 165px;
+        cursor: pointer;
+    }
 
 }
